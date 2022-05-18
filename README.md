@@ -14,24 +14,15 @@
 
 I'm a software engineer specializing in full-stack web frameworks and applications, manufacturing applications, container orchestration, and Python microservices!
 
+- 🔭 I’m currently working on Python microservices and frameworks, Typescript front-end frameworks
+- 🌱 I’m currently learning FastAPI
+- 💬 Ask me about creating enterprise (and containerized) Python and React/Vue/Angular web applications
+- 📫 How to reach me: <a href="https://linkedin.com/in/joshjhans/" target="_blank">LinkedIn</a>
+- 😄 Pronouns: He/Him
+
 You can find me on:
 
 - <a href="https://phrost.io" target="_blank">My website (phrost.io)</a>
 - <a href="https://linkedin.com/in/joshjhans/" target="_blank">LinkedIn</a>
-- <a href="https://linkedin.com/in/joshjhans/" target="_blank">Github as @joshjhans (you are here)</a>
+- <a href="https://github.com/joshjhans" target="_blank">Github as @joshjhans (you are here)</a>
 - <a href="https://twitter.com/joshjhans" target="_blank">Twitter @joshjhans</a>
-
-<!--
-**joshjhans/joshjhans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
