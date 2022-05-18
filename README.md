@@ -16,6 +16,7 @@ I'm a software engineer specializing in full-stack web frameworks and applicatio
 
 - 🔭 I’m currently working on Python microservices and frameworks, Typescript front-end frameworks
 - 🌱 I’m currently learning FastAPI & ML; passionate about environmental protection
+- 💡 Looking to contribute to Python web frameworks (Django, FastAPI) and climate projects
 - 💬 Ask me about creating enterprise (and containerized) Python and React/Vue/Angular web applications
 - 📫 How to reach me: <a href="https://linkedin.com/in/joshjhans/" target="_blank">LinkedIn</a>
 - 😄 Pronouns: He/Him
