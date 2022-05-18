@@ -4,9 +4,9 @@ I'm a software engineer in the United States 🇺🇸
 
 You can find me on:
 
-- <a href="https://www.linkedin.com/in/joshjhans/" target="_blank">My website (phrost.io)</a>
-- <a href="https://www.linkedin.com/in/joshjhans/" target="_blank">LinkedIn</a>
-- <a href="https://www.linkedin.com/in/joshjhans/" target="_blank">Github as @joshjhans (you are here)</a>
+- <a href="https://phrost.io" target="_blank">My website (phrost.io)</a>
+- <a href="https://linkedin.com/in/joshjhans/" target="_blank">LinkedIn</a>
+- <a href="https://linkedin.com/in/joshjhans/" target="_blank">Github as @joshjhans (you are here)</a>
 - <a href="https://twitter.com/joshjhans" target="_blank">Twitter @joshjhans</a>
 
 ### Hi there 👋
