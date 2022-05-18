@@ -1,4 +1,11 @@
 ### Hi there, I'm @joshjhans (Joshua Hanson)
+<hr>
+
+<p align="center">
+<a href="https://linkedin.com/in/joshjhans/" target="_blank" alt="Josh's LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://twitter.com/joshjhans" target="_blank" alt="Josh's Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
 I'm a software engineer in the United States 🇺🇸
 
@@ -8,8 +15,6 @@ You can find me on:
 - <a href="https://linkedin.com/in/joshjhans/" target="_blank">LinkedIn</a>
 - <a href="https://linkedin.com/in/joshjhans/" target="_blank">Github as @joshjhans (you are here)</a>
 - <a href="https://twitter.com/joshjhans" target="_blank">Twitter @joshjhans</a>
-
-### Hi there 👋
 
 <!--
 **joshjhans/joshjhans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
