@@ -1,5 +1,5 @@
 <h3 align="center">
-    Hi there 👋, I'm @joshjhans (Joshua Hanson)
+    Hi there 👋 I'm @joshjhans (Joshua Hanson)
 </h3>
 <hr>
 
@@ -15,7 +15,7 @@
 I'm a software engineer specializing in full-stack web frameworks and applications, manufacturing applications, container orchestration, and Python microservices!
 
 - 🔭 I’m currently working on Python microservices and frameworks, Typescript front-end frameworks
-- 🌱 I’m currently learning FastAPI
+- 🌱 I’m currently learning FastAPI & ML; passionate about environmental protection
 - 💬 Ask me about creating enterprise (and containerized) Python and React/Vue/Angular web applications
 - 📫 How to reach me: <a href="https://linkedin.com/in/joshjhans/" target="_blank">LinkedIn</a>
 - 😄 Pronouns: He/Him
