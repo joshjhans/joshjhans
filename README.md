@@ -76,4 +76,9 @@ You can find me on:
 - <a href="https://github.com/joshjhans" target="_blank">Github as @joshjhans (you are here)</a>
 - <a href="https://twitter.com/joshjhans" target="_blank">Twitter @joshjhans</a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjhans&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjhans)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- 🔰 icons: https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages- --!>
+<!-- 🧮 Github readme stats: https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
